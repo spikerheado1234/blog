@@ -3,14 +3,11 @@ date: "2014-04-09"
 title: "About"
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Hi there! My name is Ahan Gupta. I am a computer science undergraduate at the National University of Singapore and I am extremely passionate about technology!
 
-It makes use of a variety of open source projects including:
+My aim in making this blog is to learn and share cool things about tech. From philosophy, to funky data structures, this blog will talk about anything under the sun related to technology. 
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+My [Github](https://github.com/spikerheado1234)
+
+My [Linkedin](https://www.linkedin.com/in/ahan-gupta-405619103/)
